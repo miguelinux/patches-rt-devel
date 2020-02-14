@@ -1,0 +1,9 @@
+# -*- mode: shell-script; indent-tabs-mode: nil; sh-basic-offset: 4; -*-
+# ex: ts=8 sw=4 sts=4 et filetype=sh
+
+VERSION=5
+PATCHLEVEL=4
+SUBLEVEL=17
+_RT=9
+
+FCACHE_DIR=files
